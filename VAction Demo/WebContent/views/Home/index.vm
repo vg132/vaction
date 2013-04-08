@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>the Admin system</title>
+	</head>
+	<body>
+		<h1>the Admin system</h1>
+		<a href="/VAction_Demo/Customer">open the Customer system</a>
+	</body>
+</html>
