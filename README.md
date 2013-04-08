@@ -1,4 +1,7 @@
 vaction
 =======
 
-VAction is a simple MVC implementation for Java Servlets. It's very simple and small and borrows heavily from Microsoft ASP.MVC.
+VAction is a simple MVC impelmentation for Java.
+It borrows heavily from the concepts in Microsoft ASP.NET MVC.
+
+Right now the only supported template engine is Velocity.
